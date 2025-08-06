@@ -9,6 +9,6 @@ Este proyecto es una simulación de un sistema bancario que implementa la **Arqu
 - Arquitectura desacoplada (hexagonal)
 - Implementación simple en memoria (HashMap)
 
-![Estructura del proyecto](docs/a.png)
+![Estructura del proyecto](docs/a.PNG)
 
 ![Diagrama de arquitectura](docs/diagrama.png)
